@@ -4,5 +4,6 @@
 
 ## Installation
 This package is written for machines running Windows. MATLAB and Simulink are required.
-# First install FAST 7
+## Install FAST 7
 https://www.nrel.gov/wind/nwtc/fastv7.html
+## Download wind files
